@@ -1,8 +1,8 @@
 /********************************************************
- * Title: 		Basic Hash Table 2		*
- * Creator: 		John J. Coleman			*
- * Creation Date:	18.04.2026			*
- * Modified Date:	18.04.2026			*
+ * Title: 		Basic Hash Table 2						*
+ * Creator: 		John J. Coleman						*
+ * Creation Date:	18.04.2026							*
+ * Modified Date:	18.04.2026							*
  *******************************************************/
 
 #include "hashtable.h"
