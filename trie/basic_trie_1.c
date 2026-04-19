@@ -1,8 +1,8 @@
 /********************************************************
- * Title: 		Basic trie			*
- * Creator: 		John J. Coleman			*
- * Creation Date:	19.04.2026			*
- * Modified Date:	19.04.2026			*
+ * Title: 		Basic trie								*
+ * Creator: 		John J. Coleman						*
+ * Creation Date:	19.04.2026							*
+ * Modified Date:	19.04.2026							*
  *******************************************************/
 
 #include <stdio.h>
